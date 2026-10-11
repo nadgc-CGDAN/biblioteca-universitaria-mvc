@@ -12,3 +12,5 @@ O objetivo principal do projeto é aplicar na prática os pilares da **Orientaç
 * **Driver de Conexão:** `psycopg2`
 * **Arquitetura:** MVC (Model-View-Controller)
 * **IDE/Ferramentas:** VS Code, pgAdmin 4
+
+* <img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/551893d7-39c2-4f36-910e-84d7b31a7dc4" />
